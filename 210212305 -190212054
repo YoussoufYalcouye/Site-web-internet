@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<head>
+    <title>Home page - Cultural Activities</title>
+    <meta charset="UTF-8">
+    <style>
+       h1{
+        color:green;
+       }
+        h2{
+        color:red;
+       }
+       h3{
+        color:red;
+       }
+       h4{
+        color:red;
+       }
+       h5{
+        color:red;
+       }
+    </style>
+</head>
+<body>
+    <p>Project by YOUSSOUF YALCOUYE: 210212305 and MOHAMMAD SALEEH WALEED: 190212054</p>
+        <h1>CULTURAL ACTIVITIES</h1>
+        <UL><h2><li>HOME PAGE</li></h2></UL>
+        <img src="DIBI.jpg"alt="Displays featured event">
+            <ul>
+                <p>Accueil</p>
+                <p> Their will be Cow ,Fish ,Sheep ,Chichens Grilled and seafood</p>
+                <P>click<a href="https://www.maliweb.net/bamako-ledition-2024-du-festival-de-la-grillade-souvre-ce-jeudi-a-la-place-du-cinquantenaire?amp=1 "> here </a> to access the information <p>
+            <p>Cultural Activity 2024</p>
+            <ul><h2><li>EVENTS</li></h2></ul>
+            <p>Presentations of lists of upcoming event</p>
+    <ol type="I">
+    <li><strong>DIBI Festival</stron></li>
+    <li><strong>DOGON Cultural Festival</strong></li>
+    <li><strong>Niger Segou Art Festival</strong></li>
+    </ol>
+     <ul>
+                    <li><p> Click <a href="https://officetourismemali.com/index.php/9eme-edition-du-festival-dibi"> here </a> to have the informtions of DIBI Festival</p></li>
+                        <p>Date: 4 avril 2024</p>
+                        <p>Lieu: Segou,Mali Lafiabougou</p>
+                        <p>Heure: 19h00</p>
+                        <p>Description: Immerse yourself in delicious Malian cuisine with an unforgettable meat grilling experience at the Dibi Festival. Enjoy tasty cuts of beef, sheep, chicken and fish, all prepared according to traditional recipes and slowly cooked over hot coals. Join us for a day of fellowship, music and culinary delights as we celebrate Mali's rich and diverse gastronomy.</p>
+                    <li><p> Click <a href="http://www.ogobagna.org/">here</a> to have the information of DOGON Cultural Festival</p></li>
+                    <p>Date: 10 Avril 2024</p>
+                    <p>Lieu: Bamako,Mali Place Du Cinquantenaire</p>
+                    <p>Heure: 22h00</p>
+                    <p>Immerse yourself in the ancestral culture of the Dogon at the Ogobagnam Festival, a vibrant celebration of millennia-old traditions. Watch mesmerizing traditional dances, colorful rituals, handicraft demonstrations, and captivating musical performances. Explore the quaint Dogon villages, meet the hospitable locals, and discover the secrets of their unique way of life. An unforgettable cultural event in the heart of the magnificent landscape of the cliffs of Bandiaga </p>
+                    <li><p>Click <a href="https://www.fondationfestivalsurleniger.org/segou-art/">here</a> to have the informtion of Niger Segou Art Festival</p></li>
+                    <p>Date: 15 avril 2024</p>
+                    <p>Lieu: Bamako,Mali ACI 2000</p>
+                    <p>Heure: 20h00</p>
+                    <p>The Festival du Niger is an iconic cultural event that highlights the artistic and cultural diversity of Mali and the Niger River region. For several days, the streets of Ségou come alive with performances of traditional music, dance, theatre, local crafts and much more. Visitors have the opportunity to learn about the different traditions and customs of the communities that inhabit the Niger River, while enjoying a festive and  </p>
+     </ul>
+     <h3><strong>EVENT DETAIL</strong> </h3>
+      <P>DIBI FESTIVAL</P>
+      <P>The Dibi Festival is an annual celebration in Mali, showcasing the country's culture, music, dance, and traditional cuisine. It takes its name from the traditional Malian dish "dibi", a specialty of grilled meat. Usually held during the dry season, the festival includes concerts, dance demonstrations, culinary competitions of meat grilling, local craft exhibitions, and tastings of traditional dishes. It also offers visitors a </P>
+     <p>The Dibi Festival welcomes a wide variety of participants, both local and international, from different regions of Mali and sometimes even from other countries. Here is a description of the main participants and the details of the festival:</p>
+      <p>Residents of surrounding towns and villages: Local residents actively participate in the festival, contributing to its cultural richness and authenticity.
+Malian artists and musicians: Traditional music groups, dancers, and other local artists perform at the festival, offering visitors a glimpse into Mali's artistic diversity.
+Chefs & Grillers: Grilling masters, known locally as "grilladins," prepare the delicious ones </p>
+      <p><strong>Your comments are welcome</p></strong>
+      <form action="#" method="post">
+    <label for="name">Nom:</label><br>
+    <input type="text" id="name" name="name" required><br>
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email" required><br>
+    <label for="comment">Commentaire:</label><br>
+    <textarea id="comment" name="comment" rows="4" cols="50" required></textarea><br>
+    <button type="submit">Envoyer</button>
+</form>
+      <h4>GALLERY</h4>
+      <p>The picture and video of the events</p>
+      <img src="moton.jpg">   <br>   <img src="chameaux.jpg"> <img src="new mouton.jpg"> <img src="epaule.jpg">
+<video width="640" height="360" controls>
+  <source src="fesival vd1.mp4" type="video/mp4">
+  <source src="festiv vd.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+</body>
+</html>
+
+      
+
+      <h5>CONTACT</h5>
+      <P>A form for users to contact the site administrator</P>
+    
+     <h5>Adresse</h5>
+    <p>ATTBOUGOU YIRIMADIO 501 ZONE2<br>
+    BAMAKO<br>
+    MALI<br>
+    PHONE NUMBER:+905424776578 </p>
+    <h2>Email</h2>
+    <p>Click <a href="mailto:yssfyalcouye83@gmail.com"> here </a> to send an e-mail to site administrator</p>
+    <p>SOCIAL MEDIA LINK</p>
+    <p>CLICK<a href="https://www.maliweb.net/bamako-ledition-2024-du-festival-de-la-grillade-souvre-ce-jeudi-a-la-place-du-cinquantenaire?amp=1"> here </a> to acces our social media</p>
+    
+
+    
+</body>
+</html>
